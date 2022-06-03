@@ -1,6 +1,3 @@
-from asyncio.trsock import TransportSocket
-from re import T
-from tkinter import ttk
 from pip import main
 import pyautogui
 import time
